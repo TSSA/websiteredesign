@@ -1,0 +1,14 @@
+/*****Caoursel controllers*****/
+
+#mycarousel{
+	margin: 5px auto;
+}
+.carousel-indicators{
+	bottom: -30px;
+}
+.carousel-indicators li{
+	border: 1px solid darkgray;
+}
+.caoursel-indicators .active{
+	background-color: darkblue; 
+}
