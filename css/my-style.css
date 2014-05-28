@@ -12,3 +12,17 @@
 .caoursel-indicators .active{
 	background-color: darkblue; 
 }
+
+/****navbar****/
+.tssa-logo{
+	height: 51px;
+	width: 79px;
+	/*margin-top: -15px !important;
+	margin-left: -17px !important;*/
+	background-color: transparent;
+}
+
+/***footer****/
+footer{
+	background-color: #1E3582;
+}
